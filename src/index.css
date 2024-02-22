@@ -18,10 +18,8 @@ text-align: center;
   line-height: 90px;
   animation: typing 2s,cursor .2s step-end infinite alternate;
 }
-
 #question{
   margin-top: 15px;
-
 }
 
 .input{
